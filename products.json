@@ -1,0 +1,66 @@
+[
+    {
+      "name": "T-shirt",
+      "price": 999,
+      "shipping_from": "IN",
+      "feature": true,
+      "weight": "0.2Kg"
+    },
+    {
+      "name": "Kurta",
+      "price": 599,
+      "shipping_from": "US",
+      "feature": true,
+      "weight": "0.1Kg"
+    },
+    {
+      "name": "Pants",
+      "price": 1599,
+      "shipping_from": "CN",
+      "feature": true,
+      "weight": "0.5kg"
+    },
+    {
+      "name": "Shirts",
+      "price": 699,
+      "shipping_from": "IN",
+      "weight": "1.1kg"
+    },
+    {
+      "name": "Jacket",
+      "price": 899,
+      "shipping_from": "CN",
+      "weight": "0.2kg"
+    },
+    {
+      "name": "Shoes",
+      "price": 1899,
+      "shipping_from": "CN",
+      "weight": "1.3kg"
+    },
+    {
+      "name": "Jeans",
+      "price": 1299,
+      "shipping_from": "US",
+      "weight": "0.8kg"
+    },
+    {
+      "name": "Sweater",
+      "price": 799,
+      "shipping_from": "IN",
+      "weight": "0.6kg"
+    },
+    {
+      "name": "Watch",
+      "price": 2999,
+      "shipping_from": "CN",
+      "weight": "0.4kg"
+    },
+    {
+      "name": "Backpack",
+      "price": 1599,
+      "shipping_from": "US",
+      "feature": true,
+      "weight": "1.5kg"
+    }
+  ]
